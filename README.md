@@ -137,11 +137,6 @@ The application uses placeholder images by default. To use custom images:
 1. **For existing listings**: Update the `images` array in the seed data (`backend/seedData.js`)
 2. **For new listings**: Users can add image URLs when creating listings through the host dashboard
 
-### Sample Image URLs
-You can replace placeholder images with these sample URLs:
-- `https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop`
-- `https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&h=600&fit=crop`
-- `https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop`
 
 ## 📱 Usage
 
